@@ -1,0 +1,3 @@
+- pipeline.id: "vehicles"
+  path.config: "/usr/share/logstash/config/vehicles.conf"
+  pipeline.workers: 1
